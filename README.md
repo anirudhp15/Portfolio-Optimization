@@ -1,2 +1,2 @@
 # Portfolio-Optimization
-This Python program will attempt to optimize an individual's portfolio of stock investments.
+This Python program will attempt to optimize an individual's portfolio of stock investments. I utilized various Python libraries and fundemental principles of mathematical finance in order to maximize returns from an initial capital investment. I first created and analyzed the performance of a simple, example portfolio, and then I implemented the PyPortfolioOpt Python module to optimize the expected annual returns from the example portfolio.
